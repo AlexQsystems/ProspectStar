@@ -100,7 +100,7 @@
  Data analytics market $274B with 30% CAGR. Company processing 5000 transactions daily.'
 ```
 
-#### strategic_insights (4 test records added, nested under market_analysis id=3):
+#### strategic_insights (3 test records added, nested under market_analysis id=3):
 ```sql
 1. 'CRITICAL_AUTOMATION_GAP: Processing 500 employees manually costing $4.2M annually.
    Competitors automated 85% of workflows. Risk losing 40% market share in 6 months.'
