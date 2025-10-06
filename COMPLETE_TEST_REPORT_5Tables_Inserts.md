@@ -124,8 +124,6 @@
    (Irrelevant control)
 ```
 
-### Total Test Markers: 31 unique trackable items
-
 ---
 
 ## Template 1: STANDARD
